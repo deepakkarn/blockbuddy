@@ -1,3 +1,7 @@
-.venv
+.venv/
 .env
 blockbuddy.log
+.vscode/
+*.py[cod]
+.DS_Store
+__pycache__
